@@ -1,5 +1,5 @@
-# SandKube Kubernetes Examples:
-Local testbed for simple NodeJS application with a 2 pod ReplicaSet.
+# Kubernetes Starter Example:
+Local testbed for simple NodeJS application with a 2 pod ReplicaSet running in a 1 node Kubernetes cluster.
 
 ## Application
 There is a nodejs application running that will respond with the host name it is running on.
